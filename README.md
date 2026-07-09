@@ -106,17 +106,6 @@ IoT 개발자 과정에서 진행한 학습 기록과 문제 풀이 저장소입
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yonghoon304&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghoon304&layout=compact&hide_border=true" />
-
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
